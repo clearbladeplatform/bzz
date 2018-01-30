@@ -1,0 +1,13 @@
+{
+    "description": null,
+    "last_seen_version": "3.21-rc2",
+    "location": null,
+    "mac_address": null,
+    "name": "laptop_test",
+    "policy_name": null,
+    "resolver_func": null,
+    "sync_edge_tables": null,
+    "system_key": "dcca9ca00bc8cae7febcdc978f6b",
+    "system_secret": "DCCA9CA00BF487A9DCABCCA08461",
+    "token": "q9o00W2x5k5B9Mx4267JI3R"
+}
