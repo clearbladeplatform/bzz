@@ -1,0 +1,80 @@
+{
+    "Description": "Default role that is applied to all authenticated users",
+    "ID": "Authenticated",
+    "Name": "Authenticated",
+    "Permissions": {
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "messageToCollectionCreate",
+                "SystemKey": "dcca9ca00bc8cae7febcdc978f6b"
+            },
+            {
+                "Level": 1,
+                "Name": "messageToCollectionUpdate",
+                "SystemKey": "dcca9ca00bc8cae7febcdc978f6b"
+            },
+            {
+                "Level": 1,
+                "Name": "messageToHTTPPost",
+                "SystemKey": "dcca9ca00bc8cae7febcdc978f6b"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "e8c2dc970bbed3bd91a3bdcec806",
+                "Items": [],
+                "Level": 15,
+                "Name": "MessageHistory"
+            },
+            {
+                "Columns": [],
+                "ID": "e0ca9ca00bc6f6bcca97c8aea541",
+                "Items": [],
+                "Level": 15,
+                "Name": "MessageHistory"
+            },
+            {
+                "Columns": [],
+                "ID": "ecefdc970bacd9b6eae1e58eb3f801",
+                "Items": [],
+                "Level": 15,
+                "Name": "Tags"
+            },
+            {
+                "Columns": [],
+                "ID": "e0ca9ca00be0a595808b81c1f65b",
+                "Items": [],
+                "Level": 15,
+                "Name": "Tags"
+            }
+        ],
+        "DevicesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [
+            {
+                "Level": 5,
+                "Name": "tracking",
+                "SystemKey": "dcca9ca00bc8cae7febcdc978f6b"
+            },
+            {
+                "Level": 5,
+                "Name": "CJS_Portal",
+                "SystemKey": "dcca9ca00bc8cae7febcdc978f6b"
+            }
+        ],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": [],
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
