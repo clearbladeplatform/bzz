@@ -1,0 +1,52 @@
+{
+    "app_id": "dcca9ca00bc8cae7febcdc978f6b",
+    "collection_id": "e0ca9ca00be0a595808b81c1f65b",
+    "items": [],
+    "name": "Tags",
+    "permissions": {
+        "Anonymous": 1,
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "payload",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "last_updated",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "lat",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "long",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "description",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "type",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
