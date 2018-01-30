@@ -1,0 +1,45 @@
+{
+    "Description": "Default role that is applied to all unauthenticated users",
+    "ID": "Anonymous",
+    "Name": "Anonymous",
+    "Permissions": {
+        "CodeServices": [],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "ecefdc970bacd9b6eae1e58eb3f801",
+                "Items": [],
+                "Level": 1,
+                "Name": "Tags"
+            },
+            {
+                "Columns": [],
+                "ID": "e0ca9ca00be0a595808b81c1f65b",
+                "Items": [],
+                "Level": 1,
+                "Name": "Tags"
+            }
+        ],
+        "DevicesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [
+            {
+                "Level": 1,
+                "Name": "CJS_Portal",
+                "SystemKey": "dcca9ca00bc8cae7febcdc978f6b"
+            }
+        ],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": [],
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
