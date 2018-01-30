@@ -1,0 +1,22 @@
+{
+    "author": {
+        "email": "rreinold@clearblade.com"
+    },
+    "clouds": [],
+    "description": "https://github.com",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform"
+    ],
+    "license": "MIT",
+    "name": "bzz",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": ""
+}
