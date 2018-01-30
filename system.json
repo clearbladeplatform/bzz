@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "https://github.com",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "bzz",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "dcca9ca00bc8cae7febcdc978f6b",
+    "system_secret": "DCCA9CA00BF487A9DCABCCA08461"
+}
