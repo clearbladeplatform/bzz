@@ -1,0 +1,14 @@
+{
+    "architecture": "MacOS64",
+    "deploy_command": "lss",
+    "description": "",
+    "logs_command": "ls",
+    "name": "a",
+    "os": "",
+    "protocol": "",
+    "start_command": "ls",
+    "status_command": "ls",
+    "stop_command": "ls",
+    "undeploy_command": "ls",
+    "version": 4
+}
