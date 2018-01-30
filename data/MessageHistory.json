@@ -1,0 +1,41 @@
+{
+    "app_id": "dcca9ca00bc8cae7febcdc978f6b",
+    "collection_id": "e0ca9ca00bc6f6bcca97c8aea541",
+    "items": [],
+    "name": "MessageHistory",
+    "permissions": {
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "payload",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "timestamp",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "topic",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "type",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "id",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
